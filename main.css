@@ -2,6 +2,7 @@ body {
   background-color: LightGray;
 }
 
-h1, h2, p, a {
+h1, h2, p, a, img {
   font-family:calibri
+  text-align: center;
 }
