@@ -4,11 +4,10 @@ body {
 
 h1, h2, p, a {
   font-family: 'Source Sans Pro', sans-serif;
-  text-align:center;
+  text-align: center;
 }
 
-img {
+.lily-pic {
   width: 40%;
-  margin: auto;
-  display: block;
+  text-align: center;
 }
