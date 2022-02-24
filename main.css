@@ -10,3 +10,9 @@ h1, h2, p, a {
 .lily-pic {
   text-align: center;
 }
+
+.button {
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+}
