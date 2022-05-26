@@ -49,7 +49,7 @@ a.social_button {
   text-decoration: none;
   font-size: 14px;
   font-family: 'Source Sans Pro', sans-serif;
-  transition-duration: 0.2s;
+  transition-duration: 0.3s;
   cursor: pointer;
 }
 
@@ -72,4 +72,16 @@ a.social_button {
   background-color: #b6daff;
   border: 1px solid #0A66C2;
   color: #0A66C2;
+}
+
+.githubButton {
+  background-color: #171515;
+  border: 1px solid #e8eaea;
+  color: #e8eaea;
+}
+
+.githubButton:hover {
+  background-color: #171515;
+  border: 1px solid #8d9191;
+  color: #8d9191;
 }
