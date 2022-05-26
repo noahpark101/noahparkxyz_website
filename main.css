@@ -39,10 +39,10 @@ a.social_button {
 }
 
 .button {
-  background-color: #737373;
+  background-color: #dadada;
   border: 1px solid #636363;
   border-radius: 3px;
-  color: white;
+  color: black;
   padding: 10px 15px;
   margin: 4px;
   text-align: center;
@@ -54,12 +54,18 @@ a.social_button {
 }
 
 .button:hover {
-  color: black;
+  background-color: #bdbdbd;
   border: 1px solid #2e2e2e;
+  color: black;
 }
 
 .instaButton {
-  background-image: linear-gradient(#405ce694, #833AB4, #C13584, #FD1D1D, #F77737, #FCAF45, #FFDC80);
+  background-image: linear-gradient(#405ce6, #833AB4, #C13584, #FD1D1D, #F77737, #FCAF45, #FFDC80);
+  color: white;
+}
+
+.instaButton:hover {
+  background-image: linear-gradient(#405ce6, #833AB4, #C13584, #FD1D1D, #F77737, #FCAF45, #FFDC80);
 }
 
 .linkedinButton {
