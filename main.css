@@ -1,5 +1,5 @@
 #grad {
-  background-image: linear-gradient(#CEFFFF, #5DD5FF);
+  background-color: linear-gradient(#CEFFFF, #5DD5FF);
 }
 
 h1, h2, p, a {
