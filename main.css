@@ -32,3 +32,44 @@ a.social_button {
   bottom: 3px;
   left: 3px; 
 }
+
+.centerFlex {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: #737373;
+  border: 1px solid #636363;
+  border-radius: 3px;
+  color: white;
+  padding: 10px 15px;
+  margin: 4px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: black;
+  border: 1px solid #2e2e2e;
+}
+
+.instaButton {
+  background-image: linear-gradient(#405ce694, #833AB4, #C13584, #FD1D1D, #F77737, #FCAF45, #FFDC80);
+}
+
+.linkedinButton {
+  background-color: white;
+  border: 1px solid #0A66C2;
+  color: #0A66C2;
+}
+
+.linkedinButton:hover {
+  background-color: #b6daff;
+  border: 1px solid #0A66C2;
+  color: #0A66C2;
+}
