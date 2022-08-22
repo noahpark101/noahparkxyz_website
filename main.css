@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+html {
+  background: linear-gradient(#CEFFFF, #5DD5FF);
+  height: 100%;
+}
+
 body {
   background-image: linear-gradient(#CEFFFF, #5DD5FF);
   background-color: #CEFFFF;
